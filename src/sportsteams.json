@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Toronto Maple Leafs",
+        "image": "assets/torontomapleleafs.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Toronto Raptors",
+        "image": "assets/torontoraptors.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Toronto Blue Jays",
+        "image": "assets/torontobluejays.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Toronto FC",
+        "image": "assets/torontofc.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Toronto Wolf Pack",
+        "image": "assets/torontowolfpack.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Calgary Flames",
+        "image": "assets/calgaryflames.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Edmonton Oilers",
+        "image": "assets/edmontonoilers.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Montreal Canadiens",
+        "image": "assets/montrealcanadiens.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Montreal Impact",
+        "image": "assets/montrealimpact.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Vancouver Canucks",
+        "image": "assets/vancouvercanucks.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Winnipeg Jets",
+        "image": "assets/winnipegjets.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Toronto Argonauts",
+        "image": "assets/torontoargonauts.png",
+        "clicked": false
+    }
+]
