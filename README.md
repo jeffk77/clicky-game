@@ -4,23 +4,25 @@ This application looks to test one's memory capabilities by presenting a skill t
 
 Getting Started
 
-Fork the repo and download the files to your computer. Create the necessary npm packages and run the following in the 
+Fork the repo and download the files to your computer. Create the necessary yarn packages and run the following in the  bash/terminal:
 
-bash/terminal:
+	yarn install
 
-yarn install
-You can start the application using yarn start
+You can start the application using:
+
+	yarn start
 
 Prerequisites
 
-An internet connection
-The terminal or Git Bash installed
-Node NPM packages installed
+	An internet connection
+	The terminal or Git Bash installed
+	Node NPM packages installed
+
 Built With
 
-[HTML & Bootstrap]
-[JavaScript]
-[React]
+	[HTML & Bootstrap]
+	[JavaScript]
+	[React]
 
 Authors
 
